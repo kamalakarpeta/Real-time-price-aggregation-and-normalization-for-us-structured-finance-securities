@@ -1,4 +1,4 @@
-# Project Description: 
+# Project Title: 
 Real-time Price Aggregation and Normalization for US Structured Finance Securities
 
 # Project Objective:
